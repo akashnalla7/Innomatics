@@ -3,4 +3,4 @@ This document serves as a guide to track your daily tasks and manage your progre
 
 Additional Resources\
 Tools and Software: Jupyter Notebook, Python libraries (Pandas, Matplotlib, Seaborn, etc.), and any recommended software.\
-Datasets and Practice Resources: Kaggle, UCI Machine Learning Repository, or any supplementary resources.\
+Datasets and Practice Resources: Kaggle, UCI Machine Learning Repository, or any supplementary resources.
