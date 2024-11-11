@@ -1,4 +1,4 @@
-Daily Tasks - Data Analysis Course (Innomatic)
+**Daily Tasks - Data Analysis Course (Innomatic)**
 This document serves as a guide to track your daily tasks and manage your progress in the Data Analysis course at Innomatics.
 
 Additional Resources
